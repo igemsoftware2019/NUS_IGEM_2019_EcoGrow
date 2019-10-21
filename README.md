@@ -1,7 +1,8 @@
 # NUS IGEM 2019 EcoGrow
 A powerful software tool that simulates bacterial growth without running experiments in the wet lab.
-##### Software currently doesn't support MacOS
+
 # Installation
+##### Software currently doesn't support MacOS
 ## Windows Packaged Installation (Recommended):
 1. Go to Releases and download then run EcoGrow_Vx_PackagedInstallation.exe.
 2. Follow the installation steps.
