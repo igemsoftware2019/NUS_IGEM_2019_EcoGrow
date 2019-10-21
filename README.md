@@ -39,5 +39,5 @@ For more information about the models, please visit: https://2019.igem.org/Team:
 8. Enjoy long living bacteria!
 
 
-#License
+# License
 This project's source code is licensed under the BSD License - see the LICENSE.md file for details. The other parts of the project have the Creative Commons license, as stated in the competition guidelines.
