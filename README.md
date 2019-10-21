@@ -1,6 +1,15 @@
 # NUS IGEM 2019 EcoGrow
 A powerful software tool that simulates bacterial growth without running experiments in the wet lab.
 
+# User Guide
+21/10/2019 Supports SgrS, HicA-HicB and Surface Plot
+
+Our E.co Grow software allows users to run hundreds of simulations in order to gain useful insights without carrying out elaborate experiments. The foundation of this software lies in our models of the HicA-HicB and SgrS systems which have been built using our characterization data. On the basis of a few inputs specified by users, our software can predict bacterial growth trends and offer experimental design recommendations to suit their purpose. By harnessing the power of modelling, our software aims to effectively reduce the number of experiments carried out by the wet lab to test and optimise the system.
+
+For more information about the software please visit: https://2019.igem.org/Team:NUS_Singapore/Software
+
+For more information about the models, please visit: https://2019.igem.org/Team:NUS_Singapore/Description#ControlSystems
+
 # Installation
 ##### Software currently doesn't support MacOS
 ## Windows Packaged Installation (Recommended):
@@ -29,11 +38,6 @@ A powerful software tool that simulates bacterial growth without running experim
 7. After the software has launched please read the welcome guide before using the program. 
 8. Enjoy long living bacteria!
 
-# User Guide
-21/10/2019 Supports SgrS, HicA-HicB and Surface Plot
 
-Our E.co Grow software allows users to run hundreds of simulations in order to gain useful insights without carrying out elaborate experiments. The foundation of this software lies in our models of the HicA-HicB and SgrS systems which have been built using our characterization data. On the basis of a few inputs specified by users, our software can predict bacterial growth trends and offer experimental design recommendations to suit their purpose. By harnessing the power of modelling, our software aims to effectively reduce the number of experiments carried out by the wet lab to test and optimise the system.
-
-For more information about the software please visit: https://2019.igem.org/Team:NUS_Singapore/Software
-
-For more information about the models, please visit: https://2019.igem.org/Team:NUS_Singapore/Description#ControlSystems
+#License
+This project's source code is licensed under the BSD License - see the LICENSE.md file for details. The other parts of the project have the Creative Commons license, as stated in the competition guidelines.
