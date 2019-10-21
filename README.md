@@ -10,6 +10,7 @@ For more information about the software please visit: https://2019.igem.org/Team
 
 For more information about the models, please visit: https://2019.igem.org/Team:NUS_Singapore/Description#ControlSystems
 
+For reporting any bugs or feature suggestions contact: nusigem@gmail.com
 # Installation
 ##### Software currently doesn't support MacOS
 ## Windows Packaged Installation (Recommended):
